@@ -1,4 +1,5 @@
 # Cloud Run Update
+[![Go Report Card](https://goreportcard.com/badge/github.com/alexzimmer96/cloud-run-update)](https://goreportcard.com/report/github.com/alexzimmer96/cloud-run-update)
 
 ## Project Description
 
